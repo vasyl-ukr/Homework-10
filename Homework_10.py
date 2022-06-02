@@ -241,3 +241,5 @@ a = Arena('Donbass', ukr, rus)
 print(ukr.health, ukr.defense, ukr.attack)
 
 print(ukr.money, rus.money)
+
+# done
